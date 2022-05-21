@@ -74,7 +74,11 @@ Kemudian simpan dan lihat hasilnya dengan mengakses link http://localhost/lab7_p
 
 ![image](https://user-images.githubusercontent.com/101716699/169076342-52884f3a-0545-4623-9daa-1f29ffb9012c.png)
 
-Kemudian tambahkan variable pada program seperti berikut. Muat ulang halaman pada browser kemudian lihat perubahannya.
+Kemudian tambahkan variable pada program seperti berikut.
+
+![image](https://user-images.githubusercontent.com/101716699/169637526-62969d1b-f3c2-4cea-b26b-a35d9ad1cc2c.png)
+
+Muat ulang halaman pada browser kemudian lihat perubahannya.
  
 ![image](https://user-images.githubusercontent.com/101716699/169076414-db2a7822-bb15-4f36-9876-d6130a19db3b.png)
 
